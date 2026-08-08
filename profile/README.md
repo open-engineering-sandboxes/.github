@@ -2,6 +2,8 @@
 
 Safe places for engineering agents to experiment, build, test, and learn.
 
+![Open Engineering Sandboxes hero-banner.png](../assets/hero-banner.png)
+
 Welcome to Open Engineering Sandcastles — the home of the definitions, contracts, conventions, and lifecycle model for Sandcastles within the Open Engineering ecosystem.
 
 A Sandcastle is a temporary, isolated engineering environment.
